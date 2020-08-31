@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+hello bro i want to be a good software developer
 Use the left arrow to go back!
